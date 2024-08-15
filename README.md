@@ -1,4 +1,5 @@
 This is a simple clone of the famous New York Times wordle game for Windows desktop, written in C++. 
+Thanks Chilli!
 
 <h1>Build and Run</h1>
 
